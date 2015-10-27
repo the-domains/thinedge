@@ -1,0 +1,23 @@
+name: thinedge
+favicon: null
+layout_spectrum: 0.9559711012989283
+typography_spectrum: 0.47654037293978035
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.267254828941077
+  lightness: 0.7159363320097327
+  saturation: 0.7350126493256539
+  rhythmicContrast: 0.459610175807029
+purpose: []
